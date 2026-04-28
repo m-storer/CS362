@@ -28,6 +28,5 @@ class Test(unittest.TestCase):
         contrived_func(100)
 
 
-
 if __name__ == '__main__':
     unittest.main()
